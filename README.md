@@ -2,7 +2,7 @@
 
 The repository contains suplementary materialas for the paper. They are parts of the submission for CAiSE'21. The materials include:
 
-- data items collected from 149 primary studies analyzing app reviews for softare engineering; mapping between app review analysis (a.k.a. services) and data mining techniques ("data-items-and-mapping.xlsx")
+- data items collected from 149 primary studies analyzing app reviews for software engineering; mapping between app review analyses (a.k.a. services) and data mining techniques ("data-items-and-mapping.xlsx")
 - models showing how developers could make use of app review mininig to support software engieering tasks ("se-models.pdf")
 - matrices mapping (i) software engineering tasks and app review analyses; (ii) review mining use cases and app review analyses; and (iii) software enginering tasks and review mining use cases ("use-case-architecture-synthesis.xlsx")
 
